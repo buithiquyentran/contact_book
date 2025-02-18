@@ -13,3 +13,12 @@ router
   .put(contacts.update)
   .delete(contacts.delete);
 module.exports = router;
+
+// {
+//         "_id": "67b1b6591d78911d939dbcb4",
+//         "name": "Bùi Thị Quyền Trân",
+//         "email": "tran@gmail.com",
+//         "address": "64 Vĩnh Long",
+//         "favorite": true,
+//         "phone": "099999999"
+//     }
